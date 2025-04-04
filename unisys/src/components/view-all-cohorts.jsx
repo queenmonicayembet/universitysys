@@ -27,7 +27,7 @@ function ViewAllCohorts() {
                   </a>
                   <a
                     href={`/modules-cohort/${cohort.id}`}
-                    className="btn btn-secondary"
+                    className="btn btn-primary"
                   >
                     View All Modules
                   </a>
